@@ -1,6 +1,5 @@
 package com.example.H1D024133.ui.theme
 
-import android.app.Activity
 import android.os.Build
 import androidx.compose.foundation.isSystemInDarkTheme
 import androidx.compose.material3.MaterialTheme
@@ -9,18 +8,23 @@ import androidx.compose.material3.dynamicDarkColorScheme
 import androidx.compose.material3.dynamicLightColorScheme
 import androidx.compose.material3.lightColorScheme
 import androidx.compose.runtime.Composable
+import androidx.compose.ui.graphics.Color
 import androidx.compose.ui.platform.LocalContext
 
 private val DarkColorScheme = darkColorScheme(
     primary = Primary,
+    onPrimary = Color.White,
     secondary = Secondary,
-    background = Background,
-    surface = Surface
+    onSecondary = Color.White,
+    background = DarkBackground,
+    surface = DarkSurface
 )
 
 private val LightColorScheme = lightColorScheme(
     primary = Primary,
+    onPrimary = Color.White,
     secondary = Secondary,
+    onSecondary = Color.White,
     background = Background,
     surface = Surface
 )

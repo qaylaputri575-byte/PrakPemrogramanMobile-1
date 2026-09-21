@@ -1,11 +1,15 @@
 package com.example.H1D024133.ui.theme
 
-import android.view.Surface
 import androidx.compose.ui.graphics.Color
 
 val Primary = Color(0xFF3AA34B)
 val PrimaryVariant = Color(0xFF0F8B88)
 val Secondary = Color(0xFF76BA43)
 
-val Background = Color(0xFF6F5F5F5)
+// Light theme
+val Background = Color(0xFFF5F5F5)
 val Surface = Color(0xFFFFFFFF)
+
+// Dark theme
+val DarkBackground = Color(0xFF121212)
+val DarkSurface = Color(0xFF1E1E1E)

@@ -9,3 +9,6 @@ Shift Baru: Shift B
 
 ![img_1.png](img_1.png)
 
+modul 3
+
+[Screen_recording_20260921_132317.webm](recordings/Screen_recording_20260921_132317.webm)
