@@ -12,3 +12,7 @@ Shift Baru: Shift B
 modul 3
 
 [Screen_recording_20260921_132317.webm](recordings/Screen_recording_20260921_132317.webm)
+
+![img_2.png](img_2.png)
+![img_3.png](img_3.png)
+![img_4.png](img_4.png) 
