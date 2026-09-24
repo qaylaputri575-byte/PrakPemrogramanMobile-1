@@ -5,15 +5,19 @@ NIM: H1D024133
 Shift Awal: Shift B
 Shift Baru: Shift B
 
+MODUL 1
+
 ![img.png](img.png)
 
 ![img_1.png](img_1.png)
 
-modul 2
+MODUL 2
+
 ![img_6.png](img_6.png)
+
 ![img_5.png](img_5.png)
 
-modul 3
+MODUL 3
 
 [Screen_recording_20260921_132317.webm](recordings/Screen_recording_20260921_132317.webm)
 
